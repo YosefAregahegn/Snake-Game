@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(8, 92, 157);
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(86, 21, 147);
+    font-size: 17px;
+    font-weight: 600;
+}
+.container{
+    margin: 0px auto; 
+    width: 410px;
+}
+canvas{
+    background-color: rgb(187, 167, 225);
+    border-radius: 5px;
+}
